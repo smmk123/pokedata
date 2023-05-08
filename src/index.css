@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.pokemonlist {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: "4em";
+  color:green;
+  background-color:aqua;
+}
