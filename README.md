@@ -14,26 +14,22 @@ To install and run the Pokedex app locally, follow these steps:
 ### Clone this repository to your local machine using the following command:
 
 bash
-Copy code
 ````
 git clone https://github.com/smmk123/pokedata
 ````
 Navigate to the project directory:
 
 bash
-Copy code
 ````
 cd pokedata
 ````
 Install the required dependencies using npm or Yarn:
 
-Copy code
 ````
 npm install
 ````
 or
 
-Copy code
 ````
 yarn install
 ````
@@ -42,14 +38,12 @@ yarn install
 Once you have installed the necessary dependencies, you can start the app using the following command:
 
 
-Copy code
 ````
 npm start
 ````
 or
 
 
-Copy code
 ````
 yarn start
 ````
@@ -70,20 +64,17 @@ Contributions to this project are welcome. If you would like to contribute, plea
 Fork the repository on GitHub.
 Create a new branch with a descriptive name:
 
-Copy code
 ````
 git checkout -b feature/my-new-feature
 ````
 Make your modifications and write tests if necessary.
 Commit your changes with a clear and concise commit message:
 
-Copy code
 ````
 git commit -am 'Add some feature'
 ````
 Push your branch to your forked repository:
 
-Copy code
 ````
 git push origin feature/my-new-feature
 ````
